@@ -5,8 +5,7 @@ requests
 plotly
 azure-ai-textanalytics
 AzureOpenAI
-azure.ai.textanalytics 
-azure.core.credentials 
-requests
-plotly.express
-datetime 
+
+
+
+
