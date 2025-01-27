@@ -5,7 +5,6 @@ requests
 plotly
 azure-ai-textanalytics
 AzureOpenAI
-csv
 azure.ai.textanalytics 
 azure.core.credentials 
 requests
