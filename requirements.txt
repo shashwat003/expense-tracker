@@ -1,0 +1,14 @@
+streamlit
+pandas
+openai
+requests
+plotly
+azure-ai-textanalytics
+os
+AzureOpenAI
+csv
+azure.ai.textanalytics 
+azure.core.credentials 
+requests
+plotly.express
+datetime 
