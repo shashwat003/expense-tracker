@@ -83,7 +83,7 @@ def fetch_news_updates():
         )
         return response.choices[0].message["content"]
     except Exception as e:
-        return "⚠China's new AI model that rivals OpenAI, Google, Microsoft is taking the internet by storm"
+        return "⚠DeepSeek AI's Emergence Disrupts Global Tech Industry, 2) Google Challenges Record €4.3 Billion EU Antitrust Fine,  3)DeepSeek AI's Impact on U.S. Tech Stocks,  4) DeepSeek AI's Political Responses Raise Concerns"
 		
 # Save expenses to file
 def save_expenses(file_path):
